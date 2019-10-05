@@ -24,5 +24,5 @@ sudo pip install wget
 
 <h1>Usage</h1>
 
-chmod +x gw2addonupdater.py
+chmod +x gw2addonupdater.py </br>
 python3 gw2addonupdater.py
